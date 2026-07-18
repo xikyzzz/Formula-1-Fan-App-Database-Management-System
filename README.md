@@ -1,11 +1,5 @@
 # 🏎️ Formula 1 Fan Platform Database
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DBMS-Project-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql">
-  <img src="https://img.shields.io/badge/Formula-1-E10600?style=for-the-badge&logo=formula1&logoColor=white">
-</p>
-
 > A comprehensive **Formula 1 Fan Platform Database** that combines race management, driver statistics, fantasy leagues, ticket booking, merchandise shopping, and fan engagement into one normalized relational database.
 
 ---
