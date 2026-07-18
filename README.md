@@ -161,14 +161,6 @@ WHERE Ticket_Availability > 0;
 
 ---
 
-# 👥 Team
-
-- Aarohi Mehta
-- Abhijeet Kujur
-- Alvita Thakor
-- **Harsh Asnani**
-
----
 
 <p align="center">
 🏎️ Built for Formula 1 fans • Designed using Database Management System concepts
